@@ -1,0 +1,6 @@
+setuptools
+networkx 
+matplotlib 
+scipy 
+numpy 
+pandas
